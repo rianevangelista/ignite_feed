@@ -23,9 +23,9 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/rianevangelista.png',
-      name: 'Rian Oliveira',
-      role: 'UI/UX Designer'
+      avatarUrl: 'https://github.com/diego3g.png',
+      name: 'Diego Fernandes',
+      role: 'CTO @Rocketseat'
     },
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
